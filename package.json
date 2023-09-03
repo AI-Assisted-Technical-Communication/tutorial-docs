@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.10",
+    "vuepress-plugin-right-anchor": "^2.1.0-rc.2"
+  },
+  "dependencies": {}
+}
