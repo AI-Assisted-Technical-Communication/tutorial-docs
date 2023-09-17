@@ -2,6 +2,7 @@ module.exports = {
   title: "AI-assisted Technical Communication",
   description: "一起探索 “AI+技术传播” 的职业新思路",
   base: "/tutorial-docs/",
+  head: [["link", { rel: "icon", href: "/logo.jpeg" }]],
   themeConfig: {
     logo: "/logo.jpeg",
     lastUpdated: "Last Updated", // string | boolean
@@ -14,20 +15,20 @@ module.exports = {
     // ],
     sidebar: [
       {
-        title: "Reference",
-        activeHeaderLinks: false, // 默认值：true
-        path: "/Reference/tutorial-for-teaching",
-        children: ["/Reference/tutorial-for-teaching.md"],
-      },
-      {
         title: "Overview",
         activeHeaderLinks: false, // 默认值：true
-        path: "/Overview/Technical-Communication.md",
+        path: "/Overview/Technical-Communication",
         children: [
           "/Overview/Technical-Communication.md",
           "/Overview/Technical-Writing.md",
           "/Overview/Docs-Like-Code.md",
         ],
+      },
+      {
+        title: "Reference",
+        activeHeaderLinks: false, // 默认值：true
+        path: "/Reference/tutorial-for-teaching",
+        children: ["/Reference/tutorial-for-teaching.md"],
       },
     ],
     displayAllHeaders: true, // 默认值：false

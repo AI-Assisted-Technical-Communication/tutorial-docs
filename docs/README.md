@@ -4,7 +4,7 @@ heroImage: /logo.jpeg
 heroText: AI-assisted Technical Communication
 tagline: 一起探索 “AI+技术传播” 的职业新思路
 actionText: 出发 →
-actionLink: /Reference/tutorial-for-teaching
+actionLink: /Overview/Technical-Communication.md
 features:
 - title: 搭建在线文档中心
   details: 难度:⭐️ | 上架时间:2023年9月
