@@ -22,7 +22,7 @@ module.exports = {
       {
         title: "Overview",
         activeHeaderLinks: false, // 默认值：true
-        path: "/Overview/Docs-Like-Code",
+        path: "/Overview/Technical-Communication.md",
         children: [
           "/Overview/Technical-Communication.md",
           "/Overview/Technical-Writing.md",
