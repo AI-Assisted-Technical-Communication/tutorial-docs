@@ -26,7 +26,8 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
 
 - 视觉逻辑更强
 
-  文本使用Markdown标注后，结构更清晰，逻辑也更明显。比如这样：![markdown](/Image/markdown.png)
+  文本使用Markdown标注后，结构更清晰，逻辑也更明显。比如这样：<img :src="$withBase('/Image/markdown.png')" alt="markdown">
+
 
 ### 常用语法
 

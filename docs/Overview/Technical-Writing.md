@@ -13,7 +13,7 @@
 - [技术参考Reference](https://documentation.divio.com/reference.html#reference)：补充相关信息以辅助完成任务，帮助用户**解决实际问题**
 - [概述说明Explanation](https://documentation.divio.com/explanation.html#explanation)：描述背景和概述类信息，帮助用户**理解**
 
-![doc overview](/Image/doc_overview.png)
+<img :src="$withBase('/Image/doc_overview.png')" alt="doc overview">
 
 在实际写作过程中，为了达到特定目的，我们需要交付的技术文档可能融合以上的一种或多种类型。例如当我们需要产出一篇技术文档，指导交付人员基于某个项目完成整体软件的配置任务时，可能需要组合概述说明、操作指南、技术参考这三种topic在一篇文档中。
 
@@ -60,8 +60,7 @@
 技术写作岗位相比于其他IT岗位来说压力稍稍轻松一些，是一个需要不断学习吸收新事物的工作。对于文科生来说，要扪心自问自己是否喜欢新技术。同时，还要具备多种综合性技能，包括但不仅限于计算机知识、翻译、审校、营销、项目管理等等。读书期间完全可以通过自学，把自己武装成合格的技术写作人才。
 
 以下是一些可以考虑自我培养的技能和书单：
-
-![required skills](/Image/required_skills.png)
+<img :src="$withBase('/Image/required_skills.png')" alt="required skills">
 
 ### 零基础如何参与实践
 
