@@ -13,7 +13,7 @@
 - [技术参考Reference](https://documentation.divio.com/reference.html#reference)：补充相关信息以辅助完成任务，帮助用户**解决实际问题**
 - [概述说明Explanation](https://documentation.divio.com/explanation.html#explanation)：描述背景和概述类信息，帮助用户**理解**
 
-![](/Image/doc_overview.png)
+![doc overview](/docs/.vuepress/public/Image/doc_overview.png)
 
 在实际写作过程中，为了达到特定目的，我们需要交付的技术文档可能融合以上的一种或多种类型。例如当我们需要产出一篇技术文档，指导交付人员基于某个项目完成整体软件的配置任务时，可能需要组合概述说明、操作指南、技术参考这三种topic在一篇文档中。
 
@@ -61,7 +61,7 @@
 
 以下是一些可以考虑自我培养的技能和书单：
 
-![](/Image/required_skills.png)
+![required skills](/docs/.vuepress/public/Image/required_skills.png)
 
 ### 零基础如何参与实践
 
