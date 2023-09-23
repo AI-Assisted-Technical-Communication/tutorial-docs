@@ -10,7 +10,5 @@ features:
   details: 难度:⭐️ | 上架时间:2023年9月
 - title: 入门技术写作
   details: 难度:⭐️⭐️ | 上架时间:待定
-- title: 入门技术写作
-  details: 难度:⭐️⭐️ | 上架时间:待定
 # footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
