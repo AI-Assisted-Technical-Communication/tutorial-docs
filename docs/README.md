@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.jpeg
+heroImage: /logo.png
 heroText: AI-assisted Technical Communication
 tagline: 一起探索 “AI+技术传播” 的职业新思路
 actionText: 出发 →
