@@ -6,7 +6,7 @@
 
 1. 使用代码编辑器打开文件，如 Visual Studio Code
 2. 用纯文本标记语编辑文档 ，如 Markdown、reStructuredText
-3. 在 GitHub 等源代码托管服务平台存放文档
+3. 在 GitHub、GitLab 等源代码托管服务平台存放文档
 4. 基于版本控制系统进行文档协作与版本管理，如 Git
 
 听起来是不是有点抽象？没关系！在本文会向你一一介绍：
